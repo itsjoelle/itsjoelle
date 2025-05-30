@@ -129,7 +129,7 @@
 
 <br /><br />
 
-<h4>📦 Total Repositories: 66 (5 public)</h4>
+<h4>📦 Total Repositories: 66 (10 public)</h4>
 
 
 <p>
