@@ -145,25 +145,7 @@
 
 <br /><br />
 
-## ☑️ Connect
 
-<p>
-  <a href="https://itsjoelle.com" target="_blank">
-    <span>
-      <img
-        src="https://img.shields.io/badge/Portfolio-7b38ba?style=for-the-badge&logo=devbox&logoColor=white"
-        alt="Portfolio"
-      />
-    </span> </a
-  ><a href="https://github.com/itsjoelle" target="_blank">
-    <span>
-      <img
-        src="https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=github&logoColor=black"
-        alt="GitHub"
-      />
-    </span>
-  </a>
-</p>
 
 <!--
 **itsjoelle/itsjoelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
